@@ -140,3 +140,7 @@ DomainMOD is free software; you can redistribute it and/or modify it under the t
 DomainMOD is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.  
 
 You should have received a copy of the GNU General Public License along with DomainMOD. If not, please see http://www.gnu.org/licenses/  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/namestrap/domainmod/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
