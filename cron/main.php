@@ -23,6 +23,7 @@ if ($demo_install != "1") {
 	include("currencies.php");
 	include("expirations.php");
 	include("dw.php");
+	include("zindex.php");
 	
 }
 ?>
